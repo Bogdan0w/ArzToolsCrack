@@ -1,8 +1,8 @@
 {
-    "latest": 1,
-    "version": "0.0.1 Release",
-    "script_url": "https://storage.neonoir.org/KittyTools.luac",
+    "latest": 2,
+    "version": "0.0.2 Release",
+    "script_url": "https://storage.kittytools.org/KittyTools.luac",
     "changes": [
-        "Привет от Неонуара! Первый релиз Kitty Tools!"
+        "Привет от Неонуара! Второй релиз Kitty Tools!"
     ]
 }
